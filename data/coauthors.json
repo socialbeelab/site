@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Manu Munoz"
+    },
+    {
+      "id": "Ernesto Reuben"
+    },
+    {
+      "id": "Nikos Nikiforakis"
+    },
+    {
+      "id": "Andrzej Baranski"
+    },
+    {
+      "id": "Kinga Makovi"
+    },
+    {
+      "id": "Sanjeev Goyal"
+    },
+    {
+      "id": "Fred Moisan"
+    },    
+    {
+      "id": "Penelope Hernandez"
+    },
+    {
+      "id": "Guillem Martinez"
+    },
+    {
+      "id": "Lea Ellwardt"
+    },
+    {
+      "id": "Anxo Sanchez"
+    },
+    {
+      "id": "Rafael Wittek"
+    },
+    {
+      "id": "Andreas Flache"
+    },
+    {
+      "id": "Jacob Dijkstra"
+    },
+    {
+      "id": "Alexandra Cortez"
+    },
+    {
+      "id": "Alejandro Palacio"
+    },
+    {
+      "id": "Daniel Parra"
+    },    
+  ],
+  "edges": [
+    { "from": "Manu Munoz", "to": "Ernesto Reuben" },
+    { "from": "Manu Munoz", "to": "Nikos Nikiforakis" },
+    { "from": "Manu Munoz", "to": "Andrzej Baranski" },
+    { "from": "Manu Munoz", "to": "Kinga Makovi" },
+    { "from": "Manu Munoz", "to": "Sanjeev Goyal" },
+    { "from": "Manu Munoz", "to": "Fred Moisan" },
+    { "from": "Manu Munoz", "to": "Penelope Hernandez" },
+    { "from": "Manu Munoz", "to": "Guillem Martinez" },
+    { "from": "Manu Munoz", "to": "Lea Ellwardt" },
+    { "from": "Manu Munoz", "to": "Anxo Sanchez" },
+    { "from": "Manu Munoz", "to": "Rafael Wittek" },
+    { "from": "Manu Munoz", "to": "Andreas Flache" },
+    { "from": "Manu Munoz", "to": "Jacob Dijkstra" },
+    { "from": "Manu Munoz", "to": "Alexandra Cortez" },
+    { "from": "Manu Munoz", "to": "Alejandro Palacio" },
+    { "from": "Manu Munoz", "to": "Daniel Parra" },
+    
+  ]
+}
